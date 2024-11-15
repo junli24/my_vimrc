@@ -12,4 +12,4 @@ set guioptions-=T
 
 syntax on
 set background=light
-colorscheme solarized
+colorscheme default
