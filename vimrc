@@ -1,4 +1,4 @@
-set guifont=Courier_New:h12:cANSI
+set guifont=SimSun:h12:cANSI
 
 set tabstop=4
 set softtabstop=4
