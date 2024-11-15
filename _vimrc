@@ -11,5 +11,5 @@ set guioptions-=m
 set guioptions-=T
 
 syntax on
-set background=dark
-colorscheme desert
+set background=light
+colorscheme solarized
