@@ -1,4 +1,4 @@
-set guifont=SimSun:h12:cANSI
+set guifont=新宋体:h12:cGB2312
 
 set tabstop=4
 set softtabstop=4
