@@ -1,4 +1,4 @@
-set guifont=新宋体:h12:cGB2312
+set guifont=Courier\ New:h12
 
 set tabstop=4
 set softtabstop=4
@@ -10,8 +10,6 @@ set number
 set guioptions-=T
 
 syntax on
-set background=dark
-colorscheme desert
 
 set encoding=utf-8
 set langmenu=zh_CN.UTF-8
