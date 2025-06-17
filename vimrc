@@ -1,4 +1,4 @@
-set guifont=Courier\ New:h12
+set guifont=Consolas:h12
 
 set tabstop=4
 set softtabstop=4
